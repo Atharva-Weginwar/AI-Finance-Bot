@@ -2,4 +2,3 @@ streamlit==1.29.0
 together==0.1.1
 google-api-python-client==2.101.0
 python-dotenv
-python==3.11.10
